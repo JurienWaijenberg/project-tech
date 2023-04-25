@@ -1,0 +1,8 @@
+{
+    "name": "Project-tech-matching-app",
+    "version": "0.0.1",
+    "dependencies": {
+        "camelcase": "^7.0.1",
+        "hbs": "^4.2.0"
+    }
+}
